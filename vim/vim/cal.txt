@@ -1,0 +1,13 @@
+    Cal - calendar vim plugin
+-----------------------------
+
+    Quickstart
+--------------
+
+Create a .cal file, use '\n' to add months (you can use it again at any later time); you can add
+short notes in calendar view using vim R command, use '\t' command to go to, and highlight current
+day.
+
+Position a cursor on the date number in calendar view and hit enter to create an entry for that
+day. Once you're done typing that entry, use '\b' to go back to calendar view. '\h' command will
+print the help listing.
